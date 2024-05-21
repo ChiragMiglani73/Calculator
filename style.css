@@ -53,3 +53,12 @@ h1{
 .container{
     margin: 100px;
 }
+@media screen and (max-width:477px){
+    .container{
+        text-align: -webkit-center;
+          position: relative;
+          display: contents;
+
+    }
+    
+}
